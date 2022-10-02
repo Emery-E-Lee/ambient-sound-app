@@ -1,0 +1,18 @@
+{
+  "main.css": "/ambient-sound-app/static/css/main.5c8b6103.chunk.css",
+  "main.js": "/ambient-sound-app/static/js/main.1a550773.chunk.js",
+  "main.js.map": "/ambient-sound-app/static/js/main.1a550773.chunk.js.map",
+  "runtime~main.js": "/ambient-sound-app/static/js/runtime~main.96296627.js",
+  "runtime~main.js.map": "/ambient-sound-app/static/js/runtime~main.96296627.js.map",
+  "static/js/2.3edbe4ce.chunk.js": "/ambient-sound-app/static/js/2.3edbe4ce.chunk.js",
+  "static/js/2.3edbe4ce.chunk.js.map": "/ambient-sound-app/static/js/2.3edbe4ce.chunk.js.map",
+  "static/js/3.76c3d8c6.chunk.js": "/ambient-sound-app/static/js/3.76c3d8c6.chunk.js",
+  "static/js/3.76c3d8c6.chunk.js.map": "/ambient-sound-app/static/js/3.76c3d8c6.chunk.js.map",
+  "index.html": "/ambient-sound-app/index.html",
+  "precache-manifest.7b98f05ebe77775fb76f458c0420a1c9.js": "/ambient-sound-app/precache-manifest.7b98f05ebe77775fb76f458c0420a1c9.js",
+  "service-worker.js": "/ambient-sound-app/service-worker.js",
+  "static/css/main.5c8b6103.chunk.css.map": "/ambient-sound-app/static/css/main.5c8b6103.chunk.css.map",
+  "static/media/Campfire.mp4": "/ambient-sound-app/static/media/Campfire.0d4713d0.mp4",
+  "static/media/index.css": "/ambient-sound-app/static/media/Campfire.0fea5024.ttf",
+  "static/media/campfire.mp3": "/ambient-sound-app/static/media/campfire.6f453a5d.mp3"
+}
